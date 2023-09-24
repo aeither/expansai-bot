@@ -7,5 +7,5 @@
     "start:ngrok": "ngrok http 8000",
     "commands": "deno run -A scripts/index.ts"
   },
-  "lock": false
+  "lock": "./deno.lock"
 }
