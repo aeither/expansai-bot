@@ -1,5 +1,5 @@
-import { TELEGRAM_BOT_TOKEN } from '../lib/constants.js'
-import { Bot } from './deps.js'
+import { TELEGRAM_BOT_TOKEN } from '../lib/constants.ts'
+import { Bot } from './deps.ts'
 
 export const bot = new Bot(TELEGRAM_BOT_TOKEN, {
   client: {
