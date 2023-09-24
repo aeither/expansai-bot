@@ -14,6 +14,6 @@ export const bot = new Bot(TELEGRAM_BOT_TOKEN, {
 /**
  * Bot Commands
  */
-bot.command('start', (ctx) => ctx.reply('Welcome! Up and running.'))
+bot.command('start', (ctx) => ctx.reply('Welcome!'))
 
 bot.command('ping', (ctx) => ctx.reply(`Pong! ${new Date()} ${Date.now()}`))
