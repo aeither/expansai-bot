@@ -24,5 +24,5 @@ const PROJECT_URL = 'https://411b-37-162-82-192.eu.ngrok.io'
 await bot.api.setWebhook(`${PROJECT_URL}/${TELEGRAM_BOT_TOKEN}`)
 
 // Update Live Webhook
-// const PROJECT_URL = 'https://azuro-bot.deno.dev'
+// const PROJECT_URL = 'https://projectname.deno.dev'
 // await bot.api.setWebhook(`${PROJECT_URL}/${TELEGRAM_BOT_TOKEN_LIVE}`)
