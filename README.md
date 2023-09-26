@@ -1,25 +1,15 @@
-# Telegram Bot
+# Expansai Telegram Bot
 
-Deno Deploy + Grammyjs
-
-# Install
+# Instruction
 
 ```
 brew install deno
 ```
 
-# Run
-
 with tasks
 
 ```
-deno task task-name [additional args]
+deno task dev
 ```
 
-or without
-
-```
-deno run --allow-net --allow-env bot.ts
-```
-
-Rembember to set up the webhook in Telegram
+Rembember to set up the webhook in Telegram with the scripts when deploying
