@@ -1,5 +1,9 @@
 # Expansai Telegram Bot
 
+Servers and Web App can be found
+
+https://github.com/aeither/expansai
+
 # Instruction
 
 ```
