@@ -21,3 +21,5 @@ or without
 ```
 deno run --allow-net --allow-env bot.ts
 ```
+
+Rembember to set up the webhook in Telegram
